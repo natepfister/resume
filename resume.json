@@ -1,0 +1,224 @@
+{
+    "contactInfo": {
+        "name": "Nathanael Pfister",
+        "email": "nathanaelpfister@gmail.com",
+        "phone": "8016638572"
+    },
+
+    "qualifications": [
+        "Leading People, and Organizations",
+        "Customer Support, and Business-Client Relationships",
+        "Gathering, Compiling, and Summarizing Data",
+        "Organizing People, and Department Programs/Initiatives",
+        "Knowledge of Web Technologies and Business Services"
+    ],
+
+    "accomplishments": [
+        {
+		"name":"LDS Church",
+		"accomplishment" : [
+			"Identified application development needs for the LDS Church which decreased batch processing errors by 15% in Church Banking applications.",
+			"Developed new monitoring practices on key applications for the LDS Church, this helped us find and resolve issues more quickly, and increased application uptime by 11% YTD."
+			]
+        },
+        {
+        "name":"Brain Host",
+        "accomplishment" : [
+            "Increased company sales for Brain Host LLC by $1.5 million annually through creation of new products and promotions.",
+            "Reduced department operating costs for Brain Host LLC by $2.5 million annually through training and development programs designed to increase employee efficiency."
+            ]
+        },
+        {
+        "name":"Sterling Jewelers",
+        "accomplishment" : [
+            "Developed new customer handling process for Sterling Jewelers which reduced by 38% the overall number of customer complaints received for my department quarterly."
+            ]
+        }
+    
+    ],
+
+    "employmentHistory": [
+        {
+            "employer": "The Church of Jesus Christ of Latter-day Saints - FTE",
+            "duration": "October 2017 to Present",
+            "title": "Application Support Engineer 2",
+            "description": "Lead Operations Engineer for CUBS and other LDS Church enterprise applications. These applications include:",
+            "supportedApps": [
+                "CUBS - Church Unit Banking Services",
+                "MEMFS - Online Donations",
+                "LCRF - Leader and Clerk Resources Finance",
+                "BODI - Business Objects Data Integrator",
+                "Cisco - Tidal Enterprise Scheduler",
+                "HP Quality Center",
+                "Microsoft CRM",
+                "Infoguide (Internal LDS application)",
+                "Interwoven (Internal LDS application)",
+                "EPA (Ensign Peak Advisors)",
+                "GFS (Global Funding Services)",
+                "LDSP and CampusCall (LDS Philanthropies)",
+                "GCFS (Global Cash Forecasting Service)"
+            ],
+            "responsibilityDescription": "My responsibilities for these applications include:",
+            "responsibilities": [
+                "F5 Load Balancing",
+                "Linux server maintenance, patching, upgrade",
+                "Windows server maintenance, patching, upgrade",
+                "Created in-depth application monitoring",
+                "Develop process changes to increase application uptime and improve user experience"
+            ]
+        },
+        {
+            "employer": "The Church of Jesus Christ of Latter-day Saints - FTE",
+            "duration": "January 2016 to October 2017",
+            "title": "Engineer 1",
+            "description": "Provide Operational support multiple LDS Church applications with emphasis on SharePoint. Additional backup support provided for other applications.",
+            "supportedApps": [
+                "CUBS (Church Unit Banking Services)",
+                "MEMFS (Online Donations)",
+                "LCRF (Leader and Clerk Resources – Finance)",
+                "BODI (Business Objects Data Integrator)",
+                "Cisco - Tidal Enterprise Scheduler (TES)",
+                "HP Quality Center",
+                "BrainWare",
+                "IAN (Invoice Automated Network)",
+                "FileNet",
+                "Kronos Timeclock System",
+                "Kofax Image Capture"
+            ],
+            "responsibilityDescription": "My responsibilities for these applications include:",
+            "responsibilities": [
+                "F5 Load Balancing",
+                "Linux server maintenance, patching, upgrade",
+                "Windows server maintenance, patching, upgrade"
+            ]
+        },
+        {
+            "employer": "Employer Solutions Group - Contracted Employee",
+            "duration": "April 2015 to January 2016",
+            "title": "Engineer 1",
+            "description": "Provide Operational support multiple LDS Church applications with emphasis on SharePoint. Additional backup support provided for other applications",
+            "supportedApps": [
+                "CUBS (Church Unit Banking Services)",
+                "MEMFS (Online Donations)",
+                "LCRF (Leader and Clerk Resources – Finance)",
+                "BODI (Business Objects Data Integrator)",
+                "Cisco - Tidal Enterprise Scheduler (TES)",
+                "HP Quality Center",
+                "BrainWare",
+                "IAN (Invoice Automated Network)",
+                "FileNet",
+                "Kronos Timeclock System",
+                "Kofax Image Capture"
+            ],
+            "responsibilityDescription": "My responsibilities for these applications include:",
+            "responsibilities": [
+                "F5 Load Balancing",
+                "Linux server maintenance, patching, upgrade",
+                "Windows server maintenance, patching, upgrade"
+            ]
+        },
+        {
+            "employer": "Weber School District",
+            "duration": "December 2014 to April 2015",
+            "title": "User Support Specialist",
+            "description": "Provide support and training to administrative and teaching staff in three Weber School District schools",
+            "responsibilityDescription": "My responsibilities included:",
+            "responsibilities": [
+                "Maintained all technologies at those three locations",
+                "Software maintenance, installation, and repair",
+                "Hardware maintenance, installation, and repair",
+                "Administrative training courses included district specific software, as well as outside software and applications (for both Mac and PC operating systems)"
+            ]
+        },
+        {
+            "employer": "Brain Host LLC",
+            "duration": "February 2011 to May 2012",
+            "title": "Director, Client Services",
+            "description": "Managed and coordinated efforts of Q.A., Sales, Client Services, Web Development, and Off Site (Texas and India) Support Teams",
+            "responsibilityDescription": "My responsibilities included:",
+            "responsibilities": [
+                "Developed and maintained new hire training programs for all departments",
+                "Managed customer fulfillment efforts of Web Development and Q.A. teams",
+                "Managed a combined 190 employees throughout all departments",
+                "Coordinated vision of ownership team with efforts of Client Services to create profit and drive customer satisfaction"
+            ]
+        },
+        {
+            "employer": "Sterling Jewelers",
+            "duration": "February 2010 to March 2011",
+            "title": "Assistant Supervisor",
+            "description": "Assisted in managing 90 employees; included training new employees, and employee performance analysis and reporting",
+            "responsibilityDescription": "My responsibilities included:",
+            "responsibilities": [
+                "Developed and maintained new hire training programs for our department",
+                "Ensured employees met monthly earnings goals",
+                "Provided support to employees and customers during difficult customer service requests",
+                "Provided financial analysis of customer accounts for payment adjustments"
+            ]
+        },
+        {
+            "employer": "SEO Solutions",
+            "duration": "February 2009 to April 2010",
+            "title": "Online Marketing Specialist",
+            "description": "Development of SEO content and web pages for contracted clients",
+            "responsibilityDescription": "My responsibilities included:",
+            "responsibilities": [
+                "Built and launched Wordpress websites",
+                "Optimized sites for search engine indexing",
+                "Developed e-commerce solutions for clients"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "Utah Valley University",
+            "degree": "Associates of Science",
+            "program": "Information Systems and Technology",
+            "date": "Fall 2017",
+            "status": "Received"
+        },
+        {
+            "name": "Utah Valley University",
+            "degree": "Bachelors of Science",
+            "program": "Information Systems - Application Development",
+            "date": "Fall 2019",
+            "status": "Expected"
+        }
+    ],
+    "communityInvolvement": [
+        {
+            "type": "Community Organization",
+            "organization": "The Boy Scouts of America",
+            "duration": "June 2000 to June 2006",
+            "title": "Eagle Scout",
+            "description": "Eagle Project was a handicap accessibility and awareness survey of 200 businesses and stores.",
+            "details": [
+                "Project Counselors included our City Mayor and State Representative.",
+                "Project results included a remodel of downtown sidewalks and city buildings ordered by the Mayor."
+            ]
+        },
+        {
+            "type": "Religious Service",
+            "organization": "The Church of Jesus Christ of Latter-day Saints",
+            "duration": "October 2012 to November 2014",
+            "title": "Full-Time Missionary: Served full 2-year mission",
+            "description": "Led groups of 12-24 missionaries, conducted weekly and monthly training meetings, followed up on goals, and sent weekly progress reports of group progress and success to the mission president",
+            "details": [
+                "Increased missionary effectiveness by providing training in individual communication, problem solving, and working strategy skills to groups of 24-180 missionaries.",
+                "Planned, organized, and taught 30+ workshops on goal setting, relationship building, and leadership skills.",
+                "Provided community services to over 60 families and assisted two local food/shelter agencies.",
+                "Led through quantitative goal setting, reviewing past goals, learning new teaching/contact methods, and increasing team member morale."
+            ]
+        },
+        {
+            "type": "Religious Service",
+            "organization": "The Church of Jesus Christ of Latter-day Saints",
+            "duration": "January 2008 to October 2012",
+            "title": "Event Coordinator: Annual Educational Conference",
+            "description": "Planned, Coordinated, and Executed events for 200 plus young adults (18-30 years of age).",
+            "details":[
+                "Resposible for budget, planning, and cleanup for all activities"
+            ]
+        }
+    ]
+}
